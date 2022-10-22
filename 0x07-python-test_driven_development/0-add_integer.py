@@ -3,8 +3,6 @@
 add_integer function
 This function add two integers. Return an integer
 """
-
-
 def add_integer(a, b=98):
     """
     Check if the parameters are float, if so, casted it to integer.
